@@ -159,7 +159,7 @@ img {
 
 /* 節 */
 .section {
-	margin:0 48px;
+	margin:0 48px 24px;
 	padding:0 24px;
 	border-left:solid 1px #333;
 	border-right:solid 1px #333;
@@ -189,9 +189,13 @@ div.desc, p.desc {
     font-size: 88%;
 }
 
+.foot_center {
+	text-align: center;
+}
+
 /* ナビゲーション */
 ul.navigation {
-	margin:80px 0 10px;
+	margin: 48px 0 10px;
 	padding:0 20px;
 	text-align:right;
 }
